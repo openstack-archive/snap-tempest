@@ -1,0 +1,8 @@
+Code-Review+2: James Page <james.page@canonical.com>
+Workflow+1: James Page <james.page@canonical.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 13 Feb 2017 11:40:02 +0000
+Reviewed-on: https://review.openstack.org/433008
+Project: openstack/snap-tempest
+Branch: refs/heads/master
